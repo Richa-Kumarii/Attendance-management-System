@@ -1,0 +1,77 @@
+[
+  {
+    "roll_no": 101,
+    "name": "Aarav Sharma",
+    "total_days": 7,
+    "present_days": 6,
+    "attendance": {
+      "2026-10-08": "Present",
+      "2026-10-09": "Present",
+      "2026-10-10": "Absent",
+      "2026-10-11": "Present",
+      "2026-10-12": "Present",
+      "2026-10-13": "Present",
+      "2026-10-14": "Present"
+    }
+  },
+  {
+    "roll_no": 102,
+    "name": "Priya Verma",
+    "total_days": 7,
+    "present_days": 5,
+    "attendance": {
+      "2026-10-08": "Present",
+      "2026-10-09": "Present",
+      "2026-10-10": "Present",
+      "2026-10-11": "Absent",
+      "2026-10-12": "Absent",
+      "2026-10-13": "Present",
+      "2026-10-14": "Present"
+    }
+  },
+  {
+    "roll_no": 103,
+    "name": "Rohan Patel",
+    "total_days": 7,
+    "present_days": 7,
+    "attendance": {
+      "2026-10-08": "Present",
+      "2026-10-09": "Present",
+      "2026-10-10": "Present",
+      "2026-10-11": "Present",
+      "2026-10-12": "Present",
+      "2026-10-13": "Present",
+      "2026-10-14": "Present"
+    }
+  },
+  {
+    "roll_no": 104,
+    "name": "Ananya Singh",
+    "total_days": 7,
+    "present_days": 4,
+    "attendance": {
+      "2026-10-08": "Absent",
+      "2026-10-09": "Present",
+      "2026-10-10": "Absent",
+      "2026-10-11": "Present",
+      "2026-10-12": "Present",
+      "2026-10-13": "Absent",
+      "2026-10-14": "Present"
+    }
+  },
+  {
+    "roll_no": 105,
+    "name": "Vikram Das",
+    "total_days": 7,
+    "present_days": 3,
+    "attendance": {
+      "2026-10-08": "Absent",
+      "2026-10-09": "Absent",
+      "2026-10-10": "Present",
+      "2026-10-11": "Absent",
+      "2026-10-12": "Present",
+      "2026-10-13": "Absent",
+      "2026-10-14": "Present"
+    }
+  }
+]
