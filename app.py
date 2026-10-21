@@ -9,10 +9,10 @@ HF_TOKEN = os.getenv("HF_TOKEN")
 HF_MODEL_ID = os.getenv("HF_MODEL_ID")
 
 if not HF_TOKEN:
-    raise RuntimeError("HF_TOKEN .env file mein nahi mila.")
+    raise RuntimeError("I couldn't find the HF_Token in the .env file.")
 
 if not HF_MODEL_ID:
-    raise RuntimeError("HF_MODEL_ID .env file mein nahi mila.")
+    raise RuntimeError("I could't find the HF_Token ID int the .env file.")
 
 client = InferenceClient(
     model=HF_MODEL_ID,
